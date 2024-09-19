@@ -21,4 +21,8 @@ Também aprendi o que é SLA(Service Level Agreement) e como isso é importante 
   - Plataforma como serviço: focado no desenvolvimento.
   - Software como serviço: utilização do software.
 
+## Regiões e Grupos de Recursos
 
+"Neste lab foi visto o que são recursos, como fazer um grupo de recursos"
+  - Regiões soberanas: Azure Gov.(EUA) e Azure China;
+  - Um grupo de recursos é um contêiner que você usa para gerenciar e agregar recursos em uma única unidade.
