@@ -24,5 +24,59 @@ Também aprendi o que é SLA(Service Level Agreement) e como isso é importante 
 ## Regiões e Grupos de Recursos
 
 "Neste lab foi visto o que são recursos, como fazer um grupo de recursos"
-  - Regiões soberanas: Azure Gov.(EUA) e Azure China;
-  - Um grupo de recursos é um contêiner que você usa para gerenciar e agregar recursos em uma única unidade.
+  - Regiões:
+    * Abrangem o mundo e têm datacenters próximos.
+    * Reduzem a latência e garantem conformidade de dados.
+  - Zonas de disponibilidade:
+    * Protegem contra falhas em datacenters.
+    * Datacenters separados na mesma região com sistemas independentes.
+  - Pares de Regiões:
+    * Regiões separadas por pelo menos 300 milhas.
+    * Replicação automática e recuperação rápida em emergências.
+  - Regiões soberanas do Azure:
+    * EUA Governamental: Focado em segurança para agências dos EUA.
+    * Azure China: Serviços separados do Azure global, com dados mantidos na China.
+
+
+  - Recursos do Azure:
+    *São componentes como armazenamento, máquinas virtuais e redes usados para criar soluções na nuvem.
+  - Grupos de recursos:
+    * Contêiner para gerenciar recursos como uma unidade.
+    * Os recursos só podem estar em um grupo, mas podem ser movidos e existir em diferentes regiões.
+  - Assinaturas do Azure:
+    * Fornecem acesso autenticado ao Azure.
+    * Controle de cobrança e relatórios separados para cada assinatura.
+    * Gerenciam o acesso aos recursos baseados em assinaturas.
+  - Grupos de gerenciamento:
+    * Incluem várias assinaturas do Azure.
+    * Assinaturas herdam as regras aplicadas ao grupo de gerenciamento.
+
+## Computação e Rede
+  "Neste pude entender melhor alguns serviços de computação e rede do Azure"
+  - Serviços de computação do Azure:
+    * Fornece recursos de computação sob demanda (discos, processadores, memória, rede).
+    * **Máquinas Virtuais (VMs):** Emulam computadores físicos, oferecem personalização e controle total (IaaS), útil para migrações "lift-and-shift".
+  - Conjunto de dimensionamento de VMs:
+    * Balanceamento de carga e dimensionamento automático de recursos.
+  - Conjunto de disponibilidade de VMs:
+    * Alta disponibilidade e redundância, distribuindo VMs em diferentes servidores físicos para minimizar falhas.
+  - Área de trabalho virtual do Azure:
+    * Virtualização de área de trabalho e aplicativos na nuvem, com várias sessões e menos necessidade de servidores de gateway.
+  - Serviços de contêineres do Azure:
+    * Ambientes leves e virtualizados para executar contêineres sem gerenciar o sistema operacional.
+    * **Instâncias de contêiner do Azure:** PaaS para executar um contêiner ou pod de contêineres.
+    * **Aplicativos de contêiner do Azure:** PaaS com balanceamento de carga e escalabilidade.
+    * **Serviço de Kubernetes do Azure:** Orquestração de contêineres para grandes arquiteturas distribuídas.
+  - Azure Functions:
+    * Computação sem servidor (PaaS) que executa código baseado em eventos, sem necessidade de servidores durante períodos ociosos.
+  - Serviços de Aplicativo do Azure:
+    * Plataforma gerenciada para criar, implantar e dimensionar rapidamente aplicativos web e APIs, compatível com várias linguagens (PaaS).
+  - Serviço de rede do Azure:
+    * **VNet:** Conecta recursos do Azure, a internet e redes locais.
+    * **Gateway de VPN:** Envia tráfego criptografado entre a rede virtual do Azure e a local.
+    * **ExpressRoute:** Conexão privada entre redes locais e Azure via provedor de conectividade.
+    * **DNS do Azure:** Segurança baseada em controle de acesso e monitoramento detalhado.
+
+   
+  
+
