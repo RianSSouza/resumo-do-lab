@@ -77,6 +77,26 @@ Também aprendi o que é SLA(Service Level Agreement) e como isso é importante 
     * **ExpressRoute:** Conexão privada entre redes locais e Azure via provedor de conectividade.
     * **DNS do Azure:** Segurança baseada em controle de acesso e monitoramento detalhado.
 
-   
-  
+   ## Armazenamento 
+   "Neste lab aprendi sobre como funciona o armazenamento e as possiveis migrações pro Azure"
+ - Blob do Azure:
+   * Armazenamento otimizado para grandes quantidades de dados não estruturados (texto, dados binários).
+- Disco do Azure:
+  * Fornece discos para máquinas virtuais e outros serviços.
+- Fila do Azure:
+  * Armazenamento de mensagens com suporte para até 64 KB por mensagem.
+- Arquivos do Azure:
+    * Compartilhamento de arquivos de rede altamente disponível via protocolo SMB.
+- Tabelas do Azure:
+    * Armazenamento de dados estruturados não relacionais, sem esquema.
+- Migrações para o Azure:
+  * Plataforma unificada com ferramentas para avaliação e migração.
+- Azure Data Box:
+  * Armazena até 80TB de dados e facilita a migração segura para o Azure.
+- AzCopy:
+  * Utilitário de linha de comando para copiar e sincronizar arquivos/blobs no armazenamento.
+- Gerenciador de Armazenamento do Azure:
+  * Interface gráfica compatível com Windows, MacOS e Linux para gerenciar o armazenamento.
+- Sincronização de Arquivos do Azure:
+  * Sincroniza arquivos locais e do Azure de forma bidirecional, liberando espaço com acesso a arquivos frequentes. 
 
