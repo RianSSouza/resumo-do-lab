@@ -100,3 +100,24 @@ Também aprendi o que é SLA(Service Level Agreement) e como isso é importante 
 - Sincronização de Arquivos do Azure:
   * Sincroniza arquivos locais e do Azure de forma bidirecional, liberando espaço com acesso a arquivos frequentes. 
 
+ ## Identidade, Acesso e Segurança
+   "Neste lab aprendi sobre como funciona as ferramentas para autenticação e autorização"
+- Microsoft Entra ID:
+  * Serviço de gerenciamento de identidades e acesso na nuvem.
+- Autenticação:
+  * Verifica a identidade de pessoas ou serviços com credenciais.
+  * Base para criar identidades e controle de acesso seguros.
+- Autorização:
+  * Determina o nível de acesso após a autenticação.
+  * Define quais dados podem ser acessados e as ações permitidas.
+- Autenticação multifator:
+  * Adiciona uma camada extra de segurança exigindo dois ou mais fatores de autenticação.
+- Acesso condicional:
+  * Controla o acesso com base em grupo, IP, dispositivo, aplicativo e detecção de risco.
+- Controle de acesso baseado em função:
+  * Gerencia permissões finamente, concedendo apenas o acesso necessário para a equipe.
+- Proteção Completa:
+  * Abordagem em camadas para proteger sistemas, isolando ataques entre camadas.
+- Microsoft Defender para Nuvem:
+  * Serviço de monitoramento que protege contra ameaças nos datacenters do Azure e locais.
+
