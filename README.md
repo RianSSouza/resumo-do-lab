@@ -121,3 +121,11 @@ Também aprendi o que é SLA(Service Level Agreement) e como isso é importante 
 - Microsoft Defender para Nuvem:
   * Serviço de monitoramento que protege contra ameaças nos datacenters do Azure e locais.
 
+ ## Gerenciamneto de custos
+ "Neste lab aprendi sobre gerenciamneto de custos do Azure e a calculadora"
+ - Gerenciamento de custos na Azure:
+  * Fatores que afetam os custos: incluem tipo de recurso, consumo, manutenção, área geográfica, tráfego de rede e  assinatura.
+  * Azure Marketplace: permite que os clientes encontrem, experimentem, comprem e provisionem aplicativos e serviços de provedores certificados.
+  * Marcas (tags): fornecem metadados aos recursos, organizam de forma lógica e consistem em pares nome-valor, sendo úteis para informações de cobrança.
+ 
+ 
