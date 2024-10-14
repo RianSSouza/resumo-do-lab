@@ -127,5 +127,12 @@ Também aprendi o que é SLA(Service Level Agreement) e como isso é importante 
   * Fatores que afetam os custos: incluem tipo de recurso, consumo, manutenção, área geográfica, tráfego de rede e  assinatura.
   * Azure Marketplace: permite que os clientes encontrem, experimentem, comprem e provisionem aplicativos e serviços de provedores certificados.
   * Marcas (tags): fornecem metadados aos recursos, organizam de forma lógica e consistem em pares nome-valor, sendo úteis para informações de cobrança.
- 
+
+ ##Governança e Conformidade
+  "Neste lab aprendi sobre paddrões e organização"
+  -Governança e Conformidade:
+ * Azure Policy: impõe padrões organizacionais, avalia a conformidade e oferece governança em áreas como segurança, custo e gerenciamento, identificando recursos que não      seguem as políticas.
+ * Bloqueios de recursos: protegem recursos contra exclusão ou modificação acidental, podendo ser gerenciados em diferentes níveis (assinatura, grupo de recursos, etc.).
+ * Microsoft Purview: solução para governança de dados que unifica a visualização de dados locais, multinuvem e SaaS.
+	 
  
