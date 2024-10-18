@@ -128,17 +128,18 @@ Também aprendi o que é SLA(Service Level Agreement) e como isso é importante 
   * Azure Marketplace: permite que os clientes encontrem, experimentem, comprem e provisionem aplicativos e serviços de provedores certificados.
   * Marcas (tags): fornecem metadados aos recursos, organizam de forma lógica e consistem em pares nome-valor, sendo úteis para informações de cobrança.
 
- ##Governança e Conformidade
+ ## Governança e Conformidade
   "Neste lab aprendi sobre paddrões e organização"
   -Governança e Conformidade:
  * Azure Policy: impõe padrões organizacionais, avalia a conformidade e oferece governança em áreas como segurança, custo e gerenciamento, identificando recursos que não      seguem as políticas.
  * Bloqueios de recursos: protegem recursos contra exclusão ou modificação acidental, podendo ser gerenciados em diferentes níveis (assinatura, grupo de recursos, etc.).
  * Microsoft Purview: solução para governança de dados que unifica a visualização de dados locais, multinuvem e SaaS.
 
- ##Ferramentas de gerenciamento e implantação
+## Ferramentas de gerenciamento e implantação
 "Neste lab aprendi sobre paddrões e organização"
 - Azure Arc: permite a criação de aplicativos e serviços em ambientes multinuvem.
 - ARM (Azure Resource Manager): fornece uma camada de gerenciamento para criar, atualizar e excluir recursos na assinatura do Azure.
 - Infraestrutura como código: garante consistência na implantação e gerencia a configuração em escala.
-- Modelos ARM: arquivos JSON que permitem criar e implantar infraestrutura no Azure de forma declarativa, com resultados repetíveis, orquestração, validação integrada e código exportável.
+- Modelos ARM: arquivos JSON que permitem criar e implantar infraestrutura no Azure de forma declarativa, com resultados repetíveis, orquestração, validação integrada e   
+ código exportável.
  
